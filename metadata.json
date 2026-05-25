@@ -1,0 +1,6 @@
+{
+  "name": "BenMyl AI Workforce Platform",
+  "description": "Futuristic AI-powered staffing, recruitment, resume intelligence, and job discovery operating system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
